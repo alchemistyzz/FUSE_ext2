@@ -19,7 +19,7 @@ typedef enum new_fs_file_type {
 #define UINT32_BITS             32
 #define UINT8_BITS              8
 
-#define new_fs_MAGIC_NUM           0x20011115  /* Define by yourself */
+#define new_fs_MAGIC_NUM           0x12345678  /* Define by yourself */
 #define new_fs_SUPER_OFS           0
 #define new_fs_ROOT_INO            0
 
